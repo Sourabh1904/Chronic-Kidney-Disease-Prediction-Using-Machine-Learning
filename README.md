@@ -1,6 +1,5 @@
 # Chronic Kidney Disease Prediction Using Machine Learning
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 ## Project Overview
 
